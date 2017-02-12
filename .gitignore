@@ -1,0 +1,6 @@
+build/
+nbbuild/
+dist/
+nbdist/
+private/
+
